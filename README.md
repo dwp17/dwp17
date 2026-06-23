@@ -16,7 +16,6 @@
 
 I'm a **Fullstack Developer** with hands-on experience building scalable web applications and native Android apps. I care deeply about both **clean code** and **great user experience** — which is why I also handle UI/UX design for most of my projects.
 
-- 🏢 Currently working at **Bits Soft**
 - 📱 Specialized in **Web Fullstack** & **Android Development**
 - 🎨 Passionate about **UI/UX Design** that solves real problems
 - 🌱 Always learning and exploring new technologies
@@ -49,47 +48,12 @@ I'm a **Fullstack Developer** with hands-on experience building scalable web app
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-> *Note: Hapus atau sesuaikan badge di atas dengan tech stack yang benar-benar kamu kuasai!*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dwiki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dwikiprayogo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikiprayogo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dwikiprayogo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 [Nama Aplikasi Android](https://github.com/dwikiprayogo/nama-repo)
-> Deskripsi singkat aplikasi — apa yang dilakukan, untuk siapa, dan teknologi yang dipakai.
-`Kotlin` `MVVM` `Retrofit` `Room DB`
-
-### 🌐 [Nama Web App](https://github.com/dwikiprayogo/nama-repo)
-> Deskripsi singkat web app — fitur utama dan tech stack yang digunakan.
-`Node.js` `React` `MySQL` `REST API`
-
-### 🎨 [Nama Project UI/UX](https://www.behance.net/dwikiprayogo)
-> Case study desain — masalah yang dipecahkan dan pendekatan desain yang digunakan.
-`Figma` `User Research` `Prototyping`
-
-> *Update bagian ini dengan project nyata kamu!*
 
 ---
 
@@ -108,9 +72,8 @@ I'm a **Fullstack Developer** with hands-on experience building scalable web app
 
 Saya terbuka untuk proyek freelance, kolaborasi, atau sekadar ngobrol soal teknologi.
 
-📧 **Email:** your@email.com  
-💬 **WhatsApp:** +62 8xx-xxxx-xxxx  
-🔗 **LinkedIn:** [linkedin.com/in/dwikiprayogo](https://linkedin.com/in/dwikiprayogo)
+📧 **Email:** dwikiprayogo3@gmail.com  
+💬 **WhatsApp:** +62 8970-0755-20
 
 ---
 
